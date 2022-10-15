@@ -1,0 +1,9 @@
+.myskills {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+
+.myskills li {
+  margin: 0 1rem;
+}
